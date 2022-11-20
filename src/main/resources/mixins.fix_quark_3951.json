@@ -1,0 +1,8 @@
+{
+  "package": "net.heipiao.fix_quark_3951.mixins",
+  "mixins": [
+    "ReacharoundPlacingModuleMixin"
+  ],
+  "client": [],
+  "server": []
+}
